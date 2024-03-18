@@ -1,0 +1,251 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+/* NAV BAR */
+#title {
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+}
+#tag {
+  color: black;
+  text-decoration: none;
+  margin-right: 50px;
+  font-size: 30px;
+  padding: 20px;
+  height: 30px;
+}
+#img {
+  border-radius: 5px;
+}
+#img:hover {
+  color: grey;
+  background-color: yellow;
+}
+/* PART 1 */
+#bomb {
+  height: 500px;
+  display: flex;
+}
+#pic {
+  margin-left: 536px;
+}
+#pic img {
+  height: 500px;
+}
+#heading {
+  margin-top: 70px;
+  color: black;
+  font-size: 60px;
+  margin-left: 100px;
+  flex-wrap: wrap;
+}
+.text {
+  margin-left: 100px;
+  margin-top: 15px;
+  color: black;
+  font-size: 20px;
+}
+.style {
+  color: greenyellow;
+  text-decoration: underline black;
+}
+.style:hover {
+  color: blue;
+  background-color: white;
+}
+#button {
+  margin-left: 150px;
+  margin-top: 10px;
+  height: 30px;
+  width: 150px;
+  border-radius: 10px;
+  background-color: blue;
+  color: white;
+}
+#button:hover {
+  color: blue;
+  background-color: white;
+}
+/* PART 2 */
+#falcon {
+  margin-top: 50px;
+  display: flex;
+}
+.box {
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  height: 250px;
+  width: 33.3%;
+}
+#b1 {
+  color: white;
+  background-color: black;
+}
+#b2 {
+  color: white;
+  background-color: rgb(98, 226, 209);
+}
+#b3 {
+  color: white;
+  background-color: rgb(45, 203, 214);
+}
+.ace {
+  margin-top: 50px;
+  font-size: 30px;
+}
+/* PART 3 */
+#img1 {
+  height: 150px;
+  width: 150px;
+  margin-top: 50px;
+  margin-left: 50%;
+}
+#heading02 {
+  text-align: center;
+  margin-left: 150px;
+  font-size: 30px;
+}
+#txt {
+  margin-top: 20px;
+  margin-left: 150px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+#button03 {
+  margin-left: 50%;
+  margin-top: 10px;
+  height: 30px;
+  width: 150px;
+  border-radius: 10px;
+  background-color: white;
+  color: blue;
+  text-align: center;
+}
+#button03:hover {
+  color: white;
+  background-color: blue;
+}
+/* PART 4 */
+#chop {
+  margin-top: 50px;
+  background-color: cyan;
+  display: flex;
+  height: 550px;
+}
+#heading04 {
+  color: white;
+  margin-left: 90px;
+  margin-top: 90px;
+  font-size: 40px;
+  height: 150px;
+}
+#pic00 img {
+  height: 550px;
+}
+#text02 {
+  margin-left: 90px;
+  color: white;
+}
+#text03 {
+  margin-top: 50px;
+  margin-left: 90px;
+  color: white;
+}
+#button04 {
+  margin-left: 90px;
+  margin-top: 30px;
+  height: 30px;
+  width: 150px;
+  border-radius: 10px;
+  background-color: white;
+  color: blue;
+  text-align: center;
+}
+#button04:hover {
+  color: white;
+  background-color: blue;
+}
+/* PART 5 */
+#heading05 {
+  text-align: center;
+  margin-top: 50px;
+}
+#txt03 {
+  text-align: center;
+  margin-top: 20px;
+}
+#spring img {
+  margin-top: 35px;
+  justify-content: center;
+  align-items: center;
+  margin-left: 20%;
+  width: 1000px;
+  height: 700px;
+}
+/* PART 6 */
+#quack {
+  background-color: rgb(54, 196, 196);
+  height: 150px;
+  color: white;
+  display: flex;
+}
+#heading07 {
+  margin-top: 25px;
+  margin-left: 150px;
+}
+#txt05 {
+  margin-top: 25px;
+  margin-left: 150px;
+}
+#button05 {
+  margin-top: 70px;
+  margin-left: 100px;
+  height: 30px;
+  width: 150px;
+  border-radius: 10px;
+  background-color: white;
+  color: blue;
+  text-align: center;
+}
+#button05:hover {
+  color: white;
+  background-color: blue;
+}
+/* PART 7 */
+#phoenix {
+  text-align: center;
+  margin-top: 50px;
+}
+#txt07 {
+  margin-top: 10px;
+}
+#button06 {
+  align-items: center;
+  margin-top: 300px;
+  height: 30px;
+  width: 150px;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+#button06:hover {
+  color: black;
+  background-color: white;
+}
+/* PART 8 */
+#diamond {
+  margin-top: 20px;
+  height: 150px;
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+#heading08 {
+  margin-top: 30px;
+}
